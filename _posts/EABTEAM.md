@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      目录
+date:       2018-10-06
+author:     EABTEAM
+header-img: img/post-web.jpg
+catalog: true
+tags:
+    - Blog
+---
 # <h1 align="center"><code>🎉Life is fantastic🥳!~</code></h1>
 
 # Post your favorite link:rocket:
