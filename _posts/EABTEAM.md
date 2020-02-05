@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      目录
-date:       202-02-05
+date:       2020-02-05
 author:     EABTEAM
 header-img: img/post-web.jpg
 catalog: false
